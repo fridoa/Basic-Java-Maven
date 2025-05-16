@@ -4,6 +4,8 @@ import static org.junit.Assert.*;
 import src.main.java.*;
 import org.junit.Test;
 
+import Counter;
+
 public class CounterTest {
 
 	@Test
